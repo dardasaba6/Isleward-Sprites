@@ -17,6 +17,9 @@ window.texturepackOverrides = {
   'images/bigObjects.png': 'https://raw.githubusercontent.com/dardasaba6/Isleward-Sprites/main/Crimson%20Seas/BloodSewage.png', //Blood sewage
   'images/walls.png': 'https://raw.githubusercontent.com/dardasaba6/Isleward-Sprites/main/Crimson%20Seas/BloodWalls.png', //Blood sewer walls
   'images/materials.png': 'https://raw.githubusercontent.com/dardasaba6/Isleward-Sprites/main/Crimson%20Seas/BloodFish.png', //Blood fish
+  'server/mods/iwd-fjolgard/images/walls.png': 'https://raw.githubusercontent.com/dardasaba6/Isleward-Sprites/main/Crimson%20Seas/TownWallsToBlood.png', //Blood water in town
+  'server/mods/iwd-summer-fest/images/bigObjects.png': 'https://raw.githubusercontent.com/dardasaba6/Isleward-Sprites/main/Crimson%20Seas/PyrBloodWell.png', //Pyramid blood well
+  'images/mobs.png': 'https://raw.githubusercontent.com/dardasaba6/Isleward-Sprites/main/Crimson%20Seas/StinkBlood.png', //Stinktooth blood
 }
 
 // Set to `true` to get a list of possible keys for `texturepackOverrides` used by the renderer.
