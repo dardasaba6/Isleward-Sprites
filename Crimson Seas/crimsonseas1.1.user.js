@@ -16,7 +16,7 @@ window.texturepackOverrides = {
   'server/mods/iwd-fjolgard/images/tiles.png': 'https://raw.githubusercontent.com/dardasaba6/Isleward-Sprites/main/Crimson%20Seas/WaterToBloodTownNew.png', //Blood water part 2
   'images/bigObjects.png': 'https://raw.githubusercontent.com/dardasaba6/Isleward-Sprites/main/Crimson%20Seas/BloodSewage.png', //Blood sewage
   'images/walls.png': 'https://raw.githubusercontent.com/dardasaba6/Isleward-Sprites/main/Crimson%20Seas/BloodWallsReallyFinal.png', //Blood walls
-  'images/materials.png': 'https://raw.githubusercontent.com/dardasaba6/Isleward-Sprites/main/Crimson%20Seas/BloodFish.png', //Blood fish
+  'images/materials.png': 'https://raw.githubusercontent.com/dardasaba6/Isleward-Sprites/main/Crimson%20Seas/BloodFishNew.png', //Blood fish
   'server/mods/iwd-fjolgard/images/walls.png': 'https://raw.githubusercontent.com/dardasaba6/Isleward-Sprites/main/Crimson%20Seas/TownWallsToBlood.png', //Blood water in town
   'server/mods/iwd-summer-fest/images/bigObjects.png': 'https://raw.githubusercontent.com/dardasaba6/Isleward-Sprites/main/Crimson%20Seas/PyrBloodWell.png', //Pyramid blood well
   'images/mobs.png': 'https://raw.githubusercontent.com/dardasaba6/Isleward-Sprites/main/Crimson%20Seas/StinkBlood.png', //Stinktooth blood
